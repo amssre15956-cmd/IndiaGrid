@@ -1,0 +1,2 @@
+district_name,state_name,priority_level,gap_score,ev_total,public_charging_points,evs_per_charger,coverage_score,additional_chargers_required,data_quality
+Lucknow,Uttar Pradesh,CRITICAL,82.4,48250,342,141.1,0.71,141,SAMPLE
